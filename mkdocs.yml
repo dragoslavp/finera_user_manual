@@ -1,6 +1,6 @@
 site_name: Finera Korisnicko Uputstvo
 site_description: Osnovna dokumentacija i korisnicko uputstvo za Finera aplikaciju
-site_url: https://dragoslavp.github.io/finera_user_manual/
+site_url: !ENV [SITE_URL, READTHEDOCS_CANONICAL_URL, "https://dragoslavp.github.io/finera_user_manual/"]
 use_directory_urls: true
 
 theme:
@@ -51,3 +51,6 @@ nav:
       - Human Resources: moduli/human-resources.md
   - Podrska:
       - FAQ: faq.md
+  - Deploy:
+      - Cloudflare Pages: deploy/cloudflare-pages.md
+      - Read the Docs: deploy/read-the-docs.md
