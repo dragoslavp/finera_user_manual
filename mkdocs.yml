@@ -51,6 +51,3 @@ nav:
       - Human Resources: moduli/human-resources.md
   - Podrska:
       - FAQ: faq.md
-  - Deploy:
-      - Cloudflare Pages: deploy/cloudflare-pages.md
-      - Read the Docs: deploy/read-the-docs.md
