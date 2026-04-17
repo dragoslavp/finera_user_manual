@@ -31,6 +31,8 @@ Zatim u modulu `Company Registers` unesite:
 
 Kada su šifarnici spremni, možete krenuti sa radom u modulima:
 
+- `Cash Accounts` za blagajne, izvode, usklađivanje i platne naloge
+- `Fixed Assets` za osnovna sredstva, promene i amortizaciju
 - `Invoices` za fakture i ulazne račune
 - `Finances` za knjiženja i izveštaje
 - `Human Resources` za zaposlene, ugovore i obračun plata

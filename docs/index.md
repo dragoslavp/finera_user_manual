@@ -6,8 +6,10 @@ Dobrodošli u korisničko uputstvo za **Finera** aplikaciju. Dokumentacija je or
 
 Uputstvo trenutno obuhvata sledeće celine:
 
+- `Cash Accounts` za blagajne, bankovne izvode, usklađivanje i platne naloge
 - `Global Registers` za zajedničke šifarnike na nivou sistema
 - `Company Registers` za šifarnike i podešavanja na nivou kompanije
+- `Fixed Assets` za evidenciju osnovnih sredstava, promene i amortizaciju
 - `Invoices` za izlazne fakture, ulazne račune i prateće izveštaje
 - `Finances` za finansijske dnevnike, knjiženja i finansijske izveštaje
 - `Human Resources` za zaposlene, ugovore, evidenciju rada i obračun plata
@@ -16,7 +18,7 @@ Uputstvo trenutno obuhvata sledeće celine:
 
 1. Počnite od modula `Global Registers`.
 2. Zatim pregledajte `Company Registers`.
-3. Nakon toga koristite operativne module kao što su `Invoices`, `Finances` i `Human Resources`.
+3. Nakon toga koristite operativne module kao što su `Cash Accounts`, `Fixed Assets`, `Invoices`, `Finances` i `Human Resources`.
 4. Za svaki modul pratite preporučeni redosled rada naveden na odgovarajućoj stranici.
 
 ## Napomena

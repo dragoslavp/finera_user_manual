@@ -41,8 +41,10 @@ nav:
       - Pregled sistema: uvod/pregled.md
       - Brzi pocetak: uvod/brzi-pocetak.md
   - Moduli:
+      - Cash Accounts: moduli/cash-accounts.md
       - Global Registers: moduli/global-registers.md
       - Company Registers: moduli/company-registers.md
+      - Fixed Assets: moduli/fixed-assets.md
       - Invoices: moduli/invoices.md
       - Finances: moduli/finances.md
       - Human Resources: moduli/human-resources.md
