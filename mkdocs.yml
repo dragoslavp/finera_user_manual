@@ -1,0 +1,45 @@
+site_name: Finera Korisnicko Uputstvo
+site_description: Osnovna dokumentacija i korisnicko uputstvo za Finera aplikaciju
+site_url: ""
+
+theme:
+  name: material
+  language: sr
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Pocetna: index.md
+  - Uvod:
+      - Pregled: uvod/pregled.md
+      - Brzi pocetak: uvod/brzi-pocetak.md
+  - Funkcionalnosti:
+      - Osnovne funkcije: funkcionalnosti/osnovne-funkcije.md
+  - Cesta pitanja:
+      - FAQ: faq.md
