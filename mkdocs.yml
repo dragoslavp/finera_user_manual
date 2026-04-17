@@ -1,6 +1,6 @@
 site_name: Finera Korisnicko Uputstvo
 site_description: Osnovna dokumentacija i korisnicko uputstvo za Finera aplikaciju
-site_url: https://example.github.io/finera_user_manual/
+site_url: https://dragoslavp.github.io/finera_user_manual/
 use_directory_urls: true
 
 theme:
