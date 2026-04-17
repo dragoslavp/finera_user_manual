@@ -1,10 +1,40 @@
-# Brzi pocetak
+# Brzi početak
 
-Ovde mozete opisati prve korake koje korisnik treba da uradi nakon pristupa aplikaciji.
+Ako prvi put postavljate ili koristite sistem, preporučen je sledeći redosled:
 
-## Predlog koraka
+## 1. Priprema osnovnih šifarnika
 
-1. Prijava u sistem.
-2. Osnovno podesavanje naloga.
-3. Pregled glavnih menija.
-4. Izvrsavanje prve tipicne radnje u sistemu.
+Najpre popunite modul `Global Registers`:
+
+- države
+- entitete ili regije
+- opštine
+- valute
+- pravne forme
+- biroe
+- kompanije
+
+## 2. Podešavanje kompanije
+
+Zatim u modulu `Company Registers` unesite:
+
+- poslovnice
+- partnere
+- bankovne račune partnera
+- tipove dokumenata
+- jedinice mere
+- kontne planove i konta
+- dnevnike
+- račune blagajne ili banke
+
+## 3. Operativni rad
+
+Kada su šifarnici spremni, možete krenuti sa radom u modulima:
+
+- `Invoices` za fakture i ulazne račune
+- `Finances` za knjiženja i izveštaje
+- `Human Resources` za zaposlene, ugovore i obračun plata
+
+## 4. Provera kroz izveštaje
+
+Posle svakog važnog unosa ili podešavanja preporučuje se provera rezultata kroz odgovarajuće izveštaje modula.

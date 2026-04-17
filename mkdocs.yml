@@ -4,7 +4,8 @@ site_url: ""
 
 theme:
   name: material
-  language: sr
+  custom_dir: overrides
+  language: custom
   features:
     - navigation.tabs
     - navigation.sections
@@ -37,9 +38,13 @@ markdown_extensions:
 nav:
   - Pocetna: index.md
   - Uvod:
-      - Pregled: uvod/pregled.md
+      - Pregled sistema: uvod/pregled.md
       - Brzi pocetak: uvod/brzi-pocetak.md
-  - Funkcionalnosti:
-      - Osnovne funkcije: funkcionalnosti/osnovne-funkcije.md
-  - Cesta pitanja:
+  - Moduli:
+      - Global Registers: moduli/global-registers.md
+      - Company Registers: moduli/company-registers.md
+      - Invoices: moduli/invoices.md
+      - Finances: moduli/finances.md
+      - Human Resources: moduli/human-resources.md
+  - Podrska:
       - FAQ: faq.md

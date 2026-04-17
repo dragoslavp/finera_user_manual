@@ -1,0 +1,22 @@
+{% import "partials/languages/sr.html" as language %}
+{% import "partials/languages/en.html" as fallback %}
+
+{% macro override(key) %}{{ {
+  "search": "Pretraga",
+  "search.placeholder": "Pretraga",
+  "search.share": "Deljenje",
+  "search.reset": "Očisti",
+  "search.result.initializer": "Inicijalizujem pretragu",
+  "search.result.placeholder": "Unesi pojam pretrage",
+  "search.result.none": "Ništa nije pronađeno",
+  "search.result.one": "1 rezultat pretrage",
+  "search.result.other": "# rezultata pretrage",
+  "search.result.more.one": "još 1 na ovoj stranici",
+  "search.result.more.other": "još # na ovoj stranici",
+  "search.result.term.missing": "Nedostaje",
+  "toc": "Sadržaj"
+}[key] }}{% endmacro %}
+
+{% macro t(key) %}{{
+  override(key) or language.t(key) or fallback.t(key)
+}}{% endmacro %}

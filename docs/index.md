@@ -1,18 +1,24 @@
-# Finera korisnicko uputstvo
+# Finera korisničko uputstvo
 
-Dobrodosli u osnovnu dokumentaciju za **Finera** aplikaciju.
+Dobrodošli u korisničko uputstvo za **Finera** aplikaciju. Dokumentacija je organizovana po poslovnim modulima i namenjena je operativnim, administrativnim i računovodstvenim korisnicima.
 
-Ovo je pocetni kostur korisnickog uputstva pripremljen za rad u okviru **Material for MkDocs** framework-a.
+## Sadržaj dokumentacije
 
-## Sta se nalazi u dokumentaciji
+Uputstvo trenutno obuhvata sledeće celine:
 
-- uvod u sistem i namenu aplikacije
-- koraci za brzi pocetak
-- opis glavnih funkcionalnosti
-- mesto za najcesca pitanja korisnika
+- `Global Registers` za zajedničke šifarnike na nivou sistema
+- `Company Registers` za šifarnike i podešavanja na nivou kompanije
+- `Invoices` za izlazne fakture, ulazne račune i prateće izveštaje
+- `Finances` za finansijske dnevnike, knjiženja i finansijske izveštaje
+- `Human Resources` za zaposlene, ugovore, evidenciju rada i obračun plata
 
-## Sledeci koraci
+## Preporučen redosled upoznavanja sistema
 
-1. Popuniti stranice stvarnim sadrzajem.
-2. Prosiriti navigaciju po modulima aplikacije.
-3. Dodati slike, primere i procedure rada.
+1. Počnite od modula `Global Registers`.
+2. Zatim pregledajte `Company Registers`.
+3. Nakon toga koristite operativne module kao što su `Invoices`, `Finances` i `Human Resources`.
+4. Za svaki modul pratite preporučeni redosled rada naveden na odgovarajućoj stranici.
+
+## Napomena
+
+Veći deo sadržaja u ovom uputstvu preuzet je i strukturiran iz postojećih eksternih internih dokumenata, kako bi sve bilo objedinjeno na jednom mestu u okviru MkDocs dokumentacije.
