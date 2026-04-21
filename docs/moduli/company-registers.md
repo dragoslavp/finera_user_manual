@@ -1,3 +1,5 @@
+icon:fontawesome/solid/clipboard-list
+
 # Korisničko uputstvo za modul Company Registers
 
 ## 1. Svrha modula

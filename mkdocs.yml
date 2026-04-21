@@ -35,16 +35,19 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
   - Pocetna: index.md
   - Uvod:
       - Pregled sistema: uvod/pregled.md
       - Brzi pocetak: uvod/brzi-pocetak.md
-  - Moduli:
-      - Cash Accounts: moduli/cash-accounts.md
+  - Moduli:    
       - Global Registers: moduli/global-registers.md
       - Company Registers: moduli/company-registers.md
+      - Cash Accounts: moduli/cash-accounts.md
       - Fixed Assets: moduli/fixed-assets.md
       - Invoices: moduli/invoices.md
       - Finances: moduli/finances.md

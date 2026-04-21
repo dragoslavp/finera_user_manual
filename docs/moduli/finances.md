@@ -1,3 +1,5 @@
+icon:fontawesome/solid/cash-register
+
 # Korisničko uputstvo za modul Finances
 
 ## 1. Svrha modula

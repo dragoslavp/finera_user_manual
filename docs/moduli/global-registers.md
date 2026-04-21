@@ -1,3 +1,5 @@
+icon: fontawesome/solid/globe
+
 # Korisničko uputstvo za modul Global Registers
 
 ## 1. Svrha modula

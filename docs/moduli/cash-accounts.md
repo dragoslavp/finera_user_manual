@@ -1,3 +1,5 @@
+icon: fontawesome/solid/coins
+
 # Korisničko uputstvo za modul Cash Accounts
 
 ## 1. Pregled modula

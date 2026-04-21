@@ -1,3 +1,5 @@
+icon: fontawesome/solid/file-invoice
+
 # Korisničko uputstvo za modul Invoices
 
 ## 1. Svrha modula

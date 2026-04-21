@@ -1,3 +1,5 @@
+icon:fontawesome/solid/house-user
+
 # Korisničko uputstvo za modul Human Resources
 
 ## 1. Svrha modula

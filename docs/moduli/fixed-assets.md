@@ -1,3 +1,5 @@
+icon:fontawesome/solid/building
+
 # Korisničko uputstvo za modul Fixed Assets
 
 ## 1. Pregled modula

@@ -6,8 +6,10 @@ Ovde dodajte odgovore na najcesca pitanja korisnika.
 
 ### Kako da resetujem lozinku?
 
-Dodati proceduru za reset lozinke.
+Za reset lozinke morate se obratiti administratoru.
 
 ### Kome da se obratim za podrsku?
 
-Dodati kontakt podatke ili interni proces podrske.
+:fontawesome-solid-phone: : +387-65-414-974
+
+:fontawesome-solid-envelope: : dragoslav.pajic@blberza.com

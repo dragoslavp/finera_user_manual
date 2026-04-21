@@ -6,13 +6,13 @@ Dobrodošli u korisničko uputstvo za **Finera** aplikaciju. Dokumentacija je or
 
 Uputstvo trenutno obuhvata sledeće celine:
 
-- `Cash Accounts` za blagajne, bankovne izvode, usklađivanje i platne naloge
-- `Global Registers` za zajedničke šifarnike na nivou sistema
-- `Company Registers` za šifarnike i podešavanja na nivou kompanije
-- `Fixed Assets` za evidenciju osnovnih sredstava, promene i amortizaciju
-- `Invoices` za izlazne fakture, ulazne račune i prateće izveštaje
-- `Finances` za finansijske dnevnike, knjiženja i finansijske izveštaje
-- `Human Resources` za zaposlene, ugovore, evidenciju rada i obračun plata
+- :fontawesome-solid-globe:`Global Registers` za zajedničke šifarnike na nivou sistema
+- :fontawesome-solid-clipboard-list:`Company Registers` za šifarnike i podešavanja na nivou kompanije
+- :fontawesome-solid-coins:`Cash Accounts` za blagajne, bankovne izvode, usklađivanje i platne naloge
+- :fontawesome-solid-building:`Fixed Assets` za evidenciju osnovnih sredstava, promene i amortizaciju
+- :fontawesome-solid-file-invoice:`Invoices` za izlazne fakture, ulazne račune i prateće izveštaje
+- :fontawesome-solid-cash-register:`Finances` za finansijske dnevnike, knjiženja i finansijske izveštaje
+- :fontawesome-solid-house-user:`Human Resources` za zaposlene, ugovore, evidenciju rada i obračun plata
 
 ## Preporučen redosled upoznavanja sistema
 
